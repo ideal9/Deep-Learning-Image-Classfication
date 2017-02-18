@@ -24,11 +24,13 @@ Finally there is a Dense Layer of size 128
 The optimizer is Atom(with built-in Expodential Update Law)
 
 ##MNIST
-Scored:99%
+Scored: 99%
+
 Used PCA Compenets of 100
 
 ##CIFAR10
-Scored:78%
+Scored: 78%
+
 1024 PCA
 
 ##Findings
